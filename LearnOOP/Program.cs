@@ -10,6 +10,9 @@ namespace LearnOOP
     {
         static void Main(string[] args)
         {
+
+            Point2D point2D = new Point2D();
+
         }
     }
 }
